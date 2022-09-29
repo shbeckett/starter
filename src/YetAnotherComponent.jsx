@@ -2,7 +2,8 @@ import React from "react";
 
 const YetAnotherComponent = () => {
     return <>
-    <p>This text has come from YetAnotherComponent, via AnotherComponent and then rendered in MyComponent!</p>
+    <h2>This is YetAnotherComponent</h2>
+    <p>This text has come from YetAnotherComponent, via AnotherComponent and finally MyComponent!</p>
     </>;
 }
 

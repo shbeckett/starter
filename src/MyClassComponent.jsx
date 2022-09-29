@@ -5,6 +5,7 @@ class MyClassComponent extends Component {
     render () {
         return (
             <>
+            <h1>This is MyClassComponent</h1>
             <h2>
             Reasons Why I Like React:
             </h2>
